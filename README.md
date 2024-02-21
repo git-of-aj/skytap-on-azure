@@ -28,4 +28,6 @@ There are several ways to create a virtual environment in Skytap:
 
 ## SKyTap & Azure Services Integrations
 - https://www.skytap.com/category/skytap-on-azure/
+- [Blob](https://www.skytap.com/accessing-azure-blob-storage-from-a-skytap-environment-ibm-i-and-aix/)
+- [Step by STep Azure netapp on Azure](https://skytap.github.io/well-architected-framework/operations/ecosystems/azure-native/skytap+netapp-files)
 ### do not works on azure free trail : The operation cannot be completed due to the following error: Plan 'hkm1r1_paygo_pub_oct23' can not be purchased on a free subscription, please upgrade your account, see https://aka.ms/UpgradeFreeSub for more details.
