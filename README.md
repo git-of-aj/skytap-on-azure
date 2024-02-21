@@ -23,4 +23,7 @@ There are several ways to create a virtual environment in Skytap:
 - Once you’ve created an environment, you can customize it by adding and deleting VMs, editing the VMs, or modifying the networks.
 6. Accessing Vm's - https://help.skytap.com/accessing-vms-with-a-browser.html
 
+## SkyTap On Azure Network Considerations 
+- https://www.youtube.com/watch?v=myDUq3UJg4M
+
 ### do not works on azure free trail : The operation cannot be completed due to the following error: Plan 'hkm1r1_paygo_pub_oct23' can not be purchased on a free subscription, please upgrade your account, see https://aka.ms/UpgradeFreeSub for more details.
