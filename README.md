@@ -26,4 +26,6 @@ There are several ways to create a virtual environment in Skytap:
 ## SkyTap On Azure Network Considerations 
 - https://www.youtube.com/watch?v=myDUq3UJg4M
 
+## SKyTap & Azure Services Integrations
+- https://www.skytap.com/category/skytap-on-azure/
 ### do not works on azure free trail : The operation cannot be completed due to the following error: Plan 'hkm1r1_paygo_pub_oct23' can not be purchased on a free subscription, please upgrade your account, see https://aka.ms/UpgradeFreeSub for more details.
