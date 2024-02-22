@@ -1,7 +1,8 @@
 # Benefits of Sky Tap and Azure 
 [Good PDF](https://www.skytap.com/wp-content/uploads/2023/11/Skytap-on-Azure-Datasheet-November-2023.pdf)
  - [popular casestudies](https://www.skytap.com/case-studies/)
- - WHitepaper why IBM Power Apps to azure - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56i7z
+ - [Sktap docs on azure migration](https://www.skytap.com/terms-glossary/azure-cloud-migration/)
+ -  WHitepaper why IBM Power Apps to azure - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56i7z
 # skytap-on-azure
 1. Create Env -
 - A Skytap environment contains a related set of virtual machines and networks. An environment can be as simple as one virtual machine (with one automatically created virtual network), or it can be a complex application stack with multiple VMs and complex networking.
@@ -30,4 +31,5 @@ There are several ways to create a virtual environment in Skytap:
 - https://www.skytap.com/category/skytap-on-azure/
 - [Blob](https://www.skytap.com/accessing-azure-blob-storage-from-a-skytap-environment-ibm-i-and-aix/)
 - [Step by STep Azure netapp on Azure](https://skytap.github.io/well-architected-framework/operations/ecosystems/azure-native/skytap+netapp-files)
+- [Skytap with azure synapse](https://www.skytap.com/wp-content/uploads/2022/04/White-Paper-Skytap-Azure-Synapse.pdf)
 ### do not works on azure free trail : The operation cannot be completed due to the following error: Plan 'hkm1r1_paygo_pub_oct23' can not be purchased on a free subscription, please upgrade your account, see https://aka.ms/UpgradeFreeSub for more details.
