@@ -2,6 +2,7 @@
 [Good PDF](https://www.skytap.com/wp-content/uploads/2023/11/Skytap-on-Azure-Datasheet-November-2023.pdf)
  - [popular casestudies](https://www.skytap.com/case-studies/)
  - [Sktap docs on azure migration](https://www.skytap.com/terms-glossary/azure-cloud-migration/)
+ - [Tips and Tricks](https://www.skytap.com/skytap-product-tips-and-tricks/)
  -  WHitepaper why IBM Power Apps to azure - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE56i7z
 # skytap-on-azure
 1. Create Env -
@@ -32,4 +33,10 @@ There are several ways to create a virtual environment in Skytap:
 - [Blob](https://www.skytap.com/accessing-azure-blob-storage-from-a-skytap-environment-ibm-i-and-aix/)
 - [Step by STep Azure netapp on Azure](https://skytap.github.io/well-architected-framework/operations/ecosystems/azure-native/skytap+netapp-files)
 - [Skytap with azure synapse](https://www.skytap.com/wp-content/uploads/2022/04/White-Paper-Skytap-Azure-Synapse.pdf)
+- [READ ONLY - HA/DR ON AZURE](https://www.skytap.com/high-availability-disaster-recovery-options-for-ibm-power-running-in-skytap-on-azure/)
+- [skytap backup](https://www.skytap.com/skytap-template-backup-and-copy-to-region-for-disaster-recovery/)
+- [Assure MIMIX on Skytap](https://www.skytap.com/assure-mimix-ha-dr-for-ibm-i-production-workloads-in-now-available-in-skytap-on-azure/)
+- [Reserved Capacity on Azure](https://www.skytap.com/reserve-capacity-in-skytap-on-azure-self-service-now-available/)
+- [Data box for quick migration](https://www.skytap.com/using-microsoft-azure-data-box-for-migration-of-ibm-i-workloads-to-skytap/)
+- [IGNORE - PROMINIOUS MODE](https://www.skytap.com/what-is-promiscuous-mode-and-why-does-it-matter/)
 ### do not works on azure free trail : The operation cannot be completed due to the following error: Plan 'hkm1r1_paygo_pub_oct23' can not be purchased on a free subscription, please upgrade your account, see https://aka.ms/UpgradeFreeSub for more details.
