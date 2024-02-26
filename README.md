@@ -1,5 +1,6 @@
 # Benefits of Sky Tap and Azure 
 [Good PDF](https://www.skytap.com/wp-content/uploads/2023/11/Skytap-on-Azure-Datasheet-November-2023.pdf)
+- [intro by wipro](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54mh7)
  - [popular casestudies](https://www.skytap.com/case-studies/)
  - [Sktap docs on azure migration](https://www.skytap.com/terms-glossary/azure-cloud-migration/)
  - [Tips and Tricks](https://www.skytap.com/skytap-product-tips-and-tricks/)
